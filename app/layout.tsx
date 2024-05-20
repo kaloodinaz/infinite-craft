@@ -6,7 +6,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Infinite Crafter Clone",
+  title: "Infinite Craft Pro Version",
   description: "Combine elements to create new ones, forever!",
 };
 
