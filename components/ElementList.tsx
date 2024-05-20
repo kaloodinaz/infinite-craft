@@ -154,13 +154,13 @@ const ElementList = () => {
             by Neal
           </p>
           <p className="pb-4">
-            Buy me a Cofee .{" "}
+            For support project, Buy me a Cofee .{" "}
             <Link
               href="https://buymeacoffee.com/blimeypro"
               target="_blank"
               className="text-blue-600 hover:text-blue-800 transition-colors duration-200 ease-in-out"
             >
-              Ko-Fi
+              Buy me a Cofee
             </Link>
           </p>
           <div className="flex flex-row gap-5">
