@@ -1,4 +1,4 @@
-# Infinite Craft Por Version
+# Infinite Craft Pro Version
 
 
 Attempt to recreate Infinite Craft by [neal.fun](https://nealfun.pro)
