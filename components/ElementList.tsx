@@ -132,19 +132,19 @@ const ElementList = () => {
           </form>
           <h3 className="font-bold text-lg">About</h3>
           <p className="py-4">
-            Infinite Craft Clone made with 💙 by{" "}
+            Infinite Craft Pro Version made with 💙 by{" "}
             <Link
-              href="https://jtlee.dev"
+              href="https://nealfun.pro/"
               target="_blank"
               className="text-blue-600 hover:text-blue-800 transition-colors duration-200 ease-in-out"
             >
-              Jordan Lee
+              Kaloo Dinaz
             </Link>
           </p>
           <p className="pb-4">
             Recreation of
             <Link
-              href="https://neal.fun/infinite-craft"
+              href="https://infinite-craft.pages.dev/"
               target="_blank"
               className="text-blue-600 hover:text-blue-800 transition-colors duration-200 ease-in-out"
             >
@@ -154,10 +154,9 @@ const ElementList = () => {
             by Neal
           </p>
           <p className="pb-4">
-            If it's not working, it's because I'm not paying for more OpenAI
-            credit right now.{" "}
+            Buy me a Cofee .{" "}
             <Link
-              href="https://ko-fi.com/jtljrdn"
+              href="https://buymeacoffee.com/blimeypro"
               target="_blank"
               className="text-blue-600 hover:text-blue-800 transition-colors duration-200 ease-in-out"
             >
@@ -165,18 +164,10 @@ const ElementList = () => {
             </Link>
           </p>
           <div className="flex flex-row gap-5">
+           
             <p>
               <Link
-                href="https://github.com/jtljrdn"
-                target="_blank"
-                className="text-blue-600 hover:text-blue-800 transition-colors duration-200 ease-in-out"
-              >
-                GitHub
-              </Link>
-            </p>
-            <p>
-              <Link
-                href="https://jtlee.dev"
+                href="https://nealfun.pro/"
                 target="_blank"
                 className="text-blue-600 hover:text-blue-800 transition-colors duration-200 ease-in-out"
               >
@@ -185,7 +176,7 @@ const ElementList = () => {
             </p>
             <p>
               <Link
-                href="https://x.com/jtljrdn"
+                href="https://x.com/Kinord6"
                 target="_blank"
                 className="text-blue-600 hover:text-blue-800 transition-colors duration-200 ease-in-out"
               >
